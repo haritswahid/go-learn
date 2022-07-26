@@ -1,1 +1,4 @@
 This is first file, from many other file
+Okay, this will be second line, not second file
+But, it will be good adding third line too
+Then forth line
